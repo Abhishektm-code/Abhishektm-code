@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a BCA student<br>i have  a youtube channel<br>@codeandcurrent
+I am a BCA student<br>i have  a youtube channel<br>@codeandcurrent_sum
 
 
 ## 🌐 Socials:
