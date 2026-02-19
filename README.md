@@ -1,12 +1,13 @@
-# 💫 About Me
+# 👋 Hi, I'm Abhishek T M
 
-Hello everyone 👋
-I'm **Abhishek T M**, a **BCA student** passionate about programming, web development, and creative design.
-🎥 I also run a YouTube channel: **Code & Current** (@codeandcurrent_sum) where I share coding and tech content.
+🎓 BCA Student
+💻 Passionate about Programming & Web Development
+🎨 Interested in Creative Design & Editing
+🎥 I run a YouTube channel: **Code & Current** (@codeandcurrent_sum)
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_the_vibrant_one_14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](http://linkedin.com/in/abhishek-hiremath-61211932b)
@@ -49,12 +50,12 @@ I'm **Abhishek T M**, a **BCA student** passionate about programming, web develo
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishektm-code&theme=neon&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishektm-code&theme=neon&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishektm-code&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Abhishektm-code&theme=neon&hide_border=false" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektm-code&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektm-code&layout=compact&theme=neon&hide_border=false" height="165"/>
 </p>
 
 ---
@@ -70,3 +71,5 @@ I'm **Abhishek T M**, a **BCA student** passionate about programming, web develo
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Abhishektm-code&icon=4&color=10"/>
 </p>
+
+---
