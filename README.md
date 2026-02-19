@@ -58,18 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektm-code&layout=compact&theme=neon&hide_border=false" height="165"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishektm-code&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abhishektm-code&icon=4&color=10"/>
-</p>
-
----
