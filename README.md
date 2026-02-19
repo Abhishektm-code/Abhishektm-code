@@ -1,16 +1,21 @@
-# 💫 About Me:
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 About Me:
-HELLO EVERYONE Abhishek tm<br>I am a BCA student<br>I have a youtube channel<br>@codeandcurrent_sum
+# 💫 About Me
 
+Hello everyone 👋
+I'm **Abhishek T M**, a **BCA student** passionate about programming, web development, and creative design.
+🎥 I also run a YouTube channel: **Code & Current** (@codeandcurrent_sum) where I share coding and tech content.
 
-## 🌐 Socials:
+---
+
+## 🌐 Socials
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_the_vibrant_one_14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](http://linkedin.com/in/abhishek-hiremath-61211932b)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/abhishek84947)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@Codeandcurrent_sum)
 
+---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -38,6 +43,9 @@ HELLO EVERYONE Abhishek tm<br>I am a BCA student<br>I have a youtube channel<br>
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat\&logo=affinity-photo\&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat\&logo=adobe%20photoshop\&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat\&logo=adobeindesign\&logoColor=FF3366)
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -46,18 +54,19 @@ HELLO EVERYONE Abhishek tm<br>I am a BCA student<br>I have a youtube channel<br>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektm-code&
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishektm-code&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishektm-code&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektm-code&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishektm-code&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektm-code&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishektm-code&icon=4&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishektm-code&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Abhishektm-code&icon=4&color=10"/>
+</p>
